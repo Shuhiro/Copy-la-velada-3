@@ -1,5 +1,5 @@
 # Astro Starter Kit: Minimal
-
+#Proyecto Replicado de un video de MiduDev de sus directos
 ```sh
 npm create astro@latest -- --template minimal
 ```
